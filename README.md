@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me godoyenzo89@gmail.com
 - ⚡ Fun fact: I have a chevrolet cheve 1991
-- Este é meu portfólio 
+- Este é meu [Portfólio](https://enzogodoy.github.io/EnzoGodoy/)!
 
-Conheça minha história pelo meu [Portfólio](https://enzogodoy.github.io/EnzoGodoy/)!
+
 
 <!---
 EnzoGodoy/EnzoGodoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
