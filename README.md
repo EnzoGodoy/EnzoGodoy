@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @EnzoGodoy
-- 👀 I’m interested in cars, Yugioh, SQL
-- 🌱 I’m currently learning SQL, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me godoyenzo89@gmail.com
-- ⚡ Fun fact: I have a chevrolet cheve 1991
+- 👋 Opa, eu sou o Enzo Godoy
+- 👀 Sou interesado em HTML, CSS, SQL e python
+- 🌱 No momento estou aprendendo SQL, python e programação web
+- 📫 fale comigo via esse email --> godoyenzo89@gmail.com
+- ⚡ Curiosidade: Eu tenho uma chevrolet cheve 1991
 - Este é meu [Portfólio](https://enzogodoy.github.io/EnzoGodoy/)!
 
 
